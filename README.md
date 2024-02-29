@@ -1,4 +1,4 @@
-# default-IAP-repo
+# imcf-iap-template
 
 ## Getting started
 
